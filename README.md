@@ -21,9 +21,10 @@ is too high, too low, or correct.
 - Turtle graphics
 
 ## How to Run
-1. Open the file in a Python environment that supports turtle graphics (such as CodeHS).
+1. Open the file in CodeHS or another Python environment.
 2. Run the program.
-3. Enter a number between 1 and 20 when prompted.
+3. Enter ingredient names and ounce amounts when prompted.
+4. Enter the number of servings to calculate totals.
 
 ## Author
 Sukhmandeep Kaur
