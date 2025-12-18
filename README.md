@@ -24,5 +24,3 @@ the guess is too high, too low, or correct.
 3. Enter a number between 1 and 20 when prompted.
 4. View the visual feedback on the screen.
 
-## Author
-Sukhmandeep Kaur
